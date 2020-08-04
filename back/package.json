@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/daniel-w-bauman/TODO/issues"
   },
-  "homepage": "https://github.com/daniel-w-bauman/TODO#readme"
+  "homepage": "https://github.com/daniel-w-bauman/TODO#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
